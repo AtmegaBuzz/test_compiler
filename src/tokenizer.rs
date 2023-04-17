@@ -92,7 +92,7 @@ impl Lexer{
                 }
                 
             }
-            
+
             if chr == '\n' || chr == ' '{
                 self.counter += 1;
                 continue;
@@ -178,7 +178,6 @@ impl Lexer{
                 panic!("unexpected token recieved");
             }
 
-            self.counter += 1;
         }
     }
 

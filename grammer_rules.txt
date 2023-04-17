@@ -1,0 +1,10 @@
+# rules for tokens
+assignment -> =,{,},(,)
+indentifier -> [a-zA-Z_]
+OPERATOR -> +,-,*,/
+
+# datatypes 
+INT
+FLOAT
+STRING
+CHAR
