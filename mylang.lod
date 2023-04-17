@@ -1,4 +1,4 @@
-a = 10;
-b = 12;
-x = a + b;
-c = "swapnil";
+int my_name = 10;
+int b = 12;
+int x = a + b;
+string c = "swapnil";
